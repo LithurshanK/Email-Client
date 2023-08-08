@@ -1,0 +1,10 @@
+Personal: name,lithurshan2000@gmail.com,2000/08/14
+Official: nimal,nimal@gmail.com,ceo
+Personal: sangaran,sangarjii,thevarasasangaran@gmail.com,2000/10/11
+Personal: piratheep,upiratheep24@gmail.com,1997/08/24
+Official: vimal,vimal@gmail.com,manager
+Official: Raja,raja2020@gmail.com,Managing Director
+Official: Raj,raj2032@gmail.com,Manager
+Official: nimal,nimal@gmail.com,ceo
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: Kobinarth,kobinarth22@gmail.com,secretary,2000/09/19
