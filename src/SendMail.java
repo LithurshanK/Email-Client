@@ -20,8 +20,8 @@ public class SendMail {
         properties.put("mail.smtp.port","587");
 
         //sender username(email) and password
-        String username = "lithurshan2000ad@gmail.com";
-        String password = "aezdiqwxwmtzxfsi";
+        String username = "Your email";
+        String password = "Your password";
 
         //create session objects and pass the credentials
         Session session = Session.getInstance(properties, new Authenticator() {
